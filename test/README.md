@@ -80,6 +80,4 @@ Retourne la liste des candidatures avec score et date de creation.
 
 - Les donnees sont stockees en memoire : elles sont reinitialisees au redemarrage du serveur.
 
-## Livrable code source
 
-Le depot git local se trouve dans `Vaybe-Test/`. Vous pourrez le pousser vers GitHub pour obtenir le lien public demande.
